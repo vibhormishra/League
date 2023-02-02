@@ -26,3 +26,7 @@
 - To run the unit test files, use the following commands. Unit tests use ```unittest``` library that usually come along with all Python3.8 or above installations. Each unit test file has cases to check for different kind of inputs and also checks for right exception being thrown in case of unexpected or invalid input.
   - ```python <local_path_to_this_file>\util_test.py```
   - ```python <local_path_to_this_file>\matrix_operations_test.py```
+
+![Unit test example execution](https://user-images.githubusercontent.com/24560549/216331179-155b909e-0dc7-41aa-87c3-ee64163962af.JPG)
+![API requests example](https://user-images.githubusercontent.com/24560549/216331186-7f492f12-4074-43f4-bcb2-2b5f7f693ac7.JPG)
+
